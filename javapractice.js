@@ -1,5 +1,5 @@
 function HelloWorld() {
   const myTitle = document.querySelector("h1");
-  myTitle.textContent = "Hello world!";
+  myTitle.textContent = "Hello World!";
   HelloWorld();
 }
