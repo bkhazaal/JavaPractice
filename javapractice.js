@@ -1,5 +1,4 @@
 function HelloWorld() {
-  const myTitle = document.querySelector("h1");
+  const myTitle = document.getElementById("schnarvus");
   myTitle.textContent = "Hello World!";
-  HelloWorld();
 }
