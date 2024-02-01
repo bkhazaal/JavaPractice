@@ -1,2 +1,5 @@
-const myHeading = document.querySelector("title");
-myTitle.textContent = "Hellow world!";
+function HelloWorld() {
+  const myTitle = document.querySelector("h1");
+  myTitle.textContent = "Hello world!";
+  HelloWorld();
+}
