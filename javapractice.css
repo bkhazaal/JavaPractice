@@ -7,3 +7,17 @@ h1, #schnarvus {
     font-family: monospace;
     font-weight: bold;
 }
+
+button {
+    padding: 15px;
+    border-style: hidden;
+    background-color: #49be25;
+    font-size: x-large;
+    color: white;
+    font-family: monospace;
+    
+}
+
+button:hover {
+    background-color: #489126;
+}
