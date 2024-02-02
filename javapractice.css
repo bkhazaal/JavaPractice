@@ -21,3 +21,9 @@ button {
 button:hover {
     background-color: #489126;
 }
+
+img {
+    align-content: center;
+    padding-top: 50px;
+    max-width: 500px;
+}
